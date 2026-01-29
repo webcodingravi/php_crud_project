@@ -2,17 +2,11 @@ A basic PHP & MySQL CRUD (Create, Read, Update, Delete) application built withou
 This project demonstrates how to build a real working web app using Core PHP, PDO, form validation, image upload, search, and pagination.
 
 🧾 Features
-
 Add users with name, age, email, mobile, address, status
-
 Upload user image (optional validation)
-
 View list of users
-
 Search users
-
 Pagination for large user lists
-
 Edit user data
 
 Delete user and their image
